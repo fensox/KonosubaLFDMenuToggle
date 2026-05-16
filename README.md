@@ -9,3 +9,5 @@ Installation:
 5) Optional: Edit what hot key toggles the menu bar in the BepinEx\config\com.fensox.konosubalfd.menutoggle.cfg file.
    
 KonoSuba! Enjoy!
+
+<img width="1631" height="380" alt="Before_After" src="https://github.com/user-attachments/assets/d031e2a7-a301-4891-840f-6ed8bd3849cb" />
