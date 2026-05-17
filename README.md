@@ -2,7 +2,7 @@ A mod for KonoSuba: God's Blessing on this Wonderful World! Love For These Cloth
 
 Installation:
 
-1) Install BepinEx as normal with any Unity game. Launch the game once with BepinEx installed so the proper folders are created. Close the game.
+1) Install BepinEx (tested on 5.4, may work on others) as normal with any Unity game. Launch the game once with BepinEx installed so the proper folders are created. Close the game.
 2) Download from this repository the DLL file here: KonosubaLFDMenuToggle/KonosubaLFDMenuToggle.dll
 3) Drop the KonosubaLFDMenuToggle.dll into the BepinEx plugins folder and launch the game.
 4) You're done! Press F10 to toggle the bottom menu bar on and off.
